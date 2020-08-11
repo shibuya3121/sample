@@ -1,1 +1,2 @@
-sampletext
+sample text from PyCharm
+
